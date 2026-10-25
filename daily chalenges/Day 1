@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 1 - Five Tags Challenge</title>
+</head>
+<body>
+
+    <h1>My Web Development Journey</h1>
+
+    <p>
+        I am learning
+        <abbr title="HyperText Markup Language">HTML</abbr>
+        to build websites.
+    </p>
+
+    <h2>My Inspiration</h2>
+
+    <blockquote>
+        Every expert was once a beginner.
+    </blockquote>
+
+    <p>
+        This webpage is part of my
+        <cite>Web Foundations Challenge</cite>.
+    </p>
+
+    <p>
+        My most important lesson today is
+        <mark>practice makes progress</mark>.
+    </p>
+
+    <h2>Today's Learning Time</h2>
+
+    <p>
+        I started learning on
+        <time datetime="2026-10-25">25 October 2026</time>.
+    </p>
+
+    <h2>Example of HTML Code</h2>
+
+    <p>
+        To create a heading, we use
+        <code>&lt;h1&gt;</code>.
+    </p>
+
+    <details>
+        <summary>What have I learned today?</summary>
+        <p>
+            I have learned how to use new HTML tags
+            to organize and present information.
+        </p>
+    </details>
+
+</body>
+</html>
